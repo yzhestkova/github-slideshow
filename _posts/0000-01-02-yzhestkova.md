@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Orville Wright didn't have a pilot license
 Use the left arrow to go back!
